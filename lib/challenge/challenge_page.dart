@@ -1,6 +1,5 @@
 import 'file:///D:/estudo_flutter/mines/devquiz/lib/challenge/widget/question_indicator/question_indicator_widget.dart';
 import 'package:devquiz/challenge/widget/quiz/quiz_widget.dart';
-import 'package:devquiz/home/widgets/quiz_card/quiz_card_widget.dart';
 import 'package:flutter/material.dart';
 
 class ChallengePage extends StatefulWidget {
