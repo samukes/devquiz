@@ -2,15 +2,21 @@
 
 Aplicativo de quiz para desenvolvedores.
 
-## Getting Started
+## Objetivos do App:
 
-This project is a starting point for a Flutter application.
+- Ser um aplicativo de quiz para desenvolvedores.
 
-A few resources to get you started if this is your first Flutter project:
+## Qual experiência foi adiquirida:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Uma variedade de widgets comuns como: Container, PageView, Text, Scaffold e entre outros.
+- Animação do Chart que mostra o progresso geral do desafiante no quiz.
+- Gerencia de estados com o ValueNotifier e o seu Widget de observação ValueListenableBuilder.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Visão geral:
+- Para mim foi uma experiencia gratificante apesar do meu pouco tempo de produção dispinovel para este projeto, logo que já venho estudando Flutter a algum tempo e venho me interessando cada vez mais por esta tecnologia maravilhosa e inovadora.
+
+## Agradecimento:
+- Um agradecimento a toda equipe da Rockeseat por nos presentear com esta 5ª edição da NLW e também ao grande mestre Gabul pelas aulas que foram incríveis.
+
+## Próiximos passos:
+- Agora vamos para o próximo nível com o Ignite.
